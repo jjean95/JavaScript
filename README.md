@@ -3,7 +3,7 @@
 
 | No.  | Name  | Page  | Code  |
 | ---  | ----: | ----: | ---:  |
-| 1 |  Color Flipper | Page  | Code  |
+| 1 |  Color Flipper | Page  | [Code](https://github.com/jjean95/JavaScript-mini-projects/tree/main/Color%20Flipper)  |
 | 2 | Counter | Page  | Code  |
 | 3 | Review Carousel |
 | 4 | Responsive navbar|
